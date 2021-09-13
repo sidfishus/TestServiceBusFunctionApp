@@ -13,7 +13,8 @@ namespace TestServiceBusFunctionApp
 {
     public static class Function1
     {
-        //sidtodo: DO NOT CHECK IN THE CONNECTION STRING!
+        //sidtodo: DO NOT CHECK IN THE ACTUAL CONNECTION STRING!
+        //Note: connection string below has been deleted.
         //static string _connectionString = "Endpoint=sb://chrissiddall.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=/RTPPRYoMn4gpLtixGWF+eE93WAaePQp73NY8MHE0mU=";
         static string _connectionString = "..";
 
